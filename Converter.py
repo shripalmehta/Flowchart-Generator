@@ -13,6 +13,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 from tree import newTree,newNode
 
+# Beware!! next 2 lines filter all deprecation warnings from the stdout
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
 
