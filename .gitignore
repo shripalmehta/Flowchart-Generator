@@ -4,3 +4,10 @@
 # IntelliJ
 .idea/
 .iml
+
+# Python
+__pycache__/
+
+# program input/output
+enter.*
+flowchart.png
