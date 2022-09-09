@@ -9,5 +9,6 @@
 __pycache__/
 
 # program input/output
-enter.*
+enter.txt
+enter.png
 flowchart.png
