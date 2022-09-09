@@ -13,6 +13,9 @@ from PIL import Image, ImageDraw, ImageFont
 
 from tree import newTree,newNode
 
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning) 
+
 __author__ = "Mugilan Ganesan"
 __email__ = "mugi.ganesan@gmail.com"
 __status__ = "Developer"
